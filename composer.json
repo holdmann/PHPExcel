@@ -29,7 +29,8 @@
         "ext-xmlwriter": "*"
     },
     "require-dev": {
-        "squizlabs/php_codesniffer": "2.*"
+        "squizlabs/php_codesniffer": "2.*",
+        "rector/rector": "^2.0"
     },
     "recommend": {
         "ext-zip": "*",
